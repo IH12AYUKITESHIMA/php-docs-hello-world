@@ -1,3 +1,3 @@
 <?php
 
-echo "こんにちは World!";
+echo "Hello Azure!";
